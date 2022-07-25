@@ -1,5 +1,5 @@
 
-[image](https://user-images.githubusercontent.com/103319628/180814908-4d47fce3-4f67-4ca9-9040-e9c27c4122ad.png)
+![Logo](https://user-images.githubusercontent.com/103319628/180814908-4d47fce3-4f67-4ca9-9040-e9c27c4122ad.png)
 
 #Machine learning itself
 
