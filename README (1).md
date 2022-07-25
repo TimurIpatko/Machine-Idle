@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]![image](https://user-images.githubusercontent.com/103319628/180814288-f5f43ed4-bd1a-429f-99f8-9bbf93bd8d38.png)
 
 
 ## Documentation
