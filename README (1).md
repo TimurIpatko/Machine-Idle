@@ -37,7 +37,7 @@ Install my-project with npm
 ```
     
 ## 🔗 Links
-[![portfolio] No (I don't use))
-[![linkedin] No (I don't use)
-[![twitter] No (I don't use))
+portfolio No (I don't use)
+linkedin No (I don't use)
+twitter No (I don't use)
 
