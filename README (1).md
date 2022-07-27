@@ -14,7 +14,6 @@ Designed for teenagers and adults
 
 ## Documentation
 
-##[Documentation] 
 I did it as you can see from the logo in the PYTHON programming language
 
 ## Color Reference
