@@ -14,9 +14,8 @@ Designed for teenagers and adults
 
 ## Documentation
 
-I did it as you can see from the logo in the PYTHON programming language
-I didn't do it alone, thanks
-Adil and Evgenia
+I did it as you can see from the logo in the PYTHON programming language.
+I'm not alone, thanks to Adil and Eugene
 
 ## Commands
 
