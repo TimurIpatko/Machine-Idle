@@ -15,21 +15,18 @@ Designed for teenagers and adults
 ## Documentation
 
 I did it as you can see from the logo in the PYTHON programming language
+I didn't do it alone, thanks
+Adil and Evgenia
 
-## Color Reference
+## Commands
 
 | Function            |        Explanation                                                        |
 | ----------------- | ------------------------------------------------------------------ |
-|  | Python software library for data processing and analysis |
-|  |  |
-|  |  |
-|  |  |
-
-
-## Appendix
-
-Any additional information goes here
-
+| Pandas | Python software library for data processing and analysis |
+| Model_selection | is a method for setting a blueprint to analyze data and then using it to measure new data.  |
+| DataFrame | 
+this is an indexed multidimensional array of values, respectively, each column of the DataFrame is a Series structure |
+| set clear() in python | The clear() method removes all elements from the set. Syntax: set. clear() parameters: The clear() method doesn't take any parameters |
 
 ## Installation
 
@@ -41,7 +38,7 @@ Install my-project with npm
 ```
     
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio] No (I don't use))
+[![linkedin] No (I don't use)
+[![twitter] No (I don't use))
 
