@@ -24,8 +24,7 @@ Adil and Evgenia
 | ----------------- | ------------------------------------------------------------------ |
 | Pandas | Python software library for data processing and analysis |
 | Model_selection | is a method for setting a blueprint to analyze data and then using it to measure new data.  |
-| DataFrame | 
-this is an indexed multidimensional array of values, respectively, each column of the DataFrame is a Series structure |
+| DataFrame | this is an indexed multidimensional array of values, respectively, each column of the DataFrame is a Series structure |
 | set clear() in python | The clear() method removes all elements from the set. Syntax: set. clear() parameters: The clear() method doesn't take any parameters |
 
 ## Installation
